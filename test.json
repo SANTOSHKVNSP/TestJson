@@ -1,5 +1,6 @@
 {
     "Name of Checklist": "Forewood Test",
+    "identifier of checklist": "ForewoodTest",
     "List of Questions": [
     {
         "question_id": "1",
